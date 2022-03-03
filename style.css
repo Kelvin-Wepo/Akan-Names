@@ -1,5 +1,5 @@
 body {
-    background: url(./Images/Akan\ images.jpeg);
+    background: url(./Images/new\ akan\ image.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color: black;
@@ -12,4 +12,26 @@ body {
 
 ul li {
     list-style: none;
+}
+
+h1 {
+    color: indigo;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2,
+p {
+    text-align: center;
+    color: black;
+}
+
+.formm h2 {
+    color: black;
+}
+
+.xcard {
+    display: flex;
+    gap: 50px;
+    margin-left: 550px;
 }
