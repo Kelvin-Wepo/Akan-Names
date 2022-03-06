@@ -61,7 +61,9 @@ p {
 
 footer {
     margin-left: 15px;
-    color: white;
+    color:black;
+    font-size: larger;
+    font-weight: bolder;
 }
 
 span {
