@@ -14,7 +14,7 @@ This is a web application that takes a users birthday and generates the day in w
  </ul>
 
 ## project live link
-<a>kelvin-wepo.github.io/akan-names/ </a>
+<a>kelvin-wepo.github.io/akan-names/</a>
 
 ## Known bugs
 There are no known bugs.
