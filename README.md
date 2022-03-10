@@ -14,7 +14,7 @@ This is a web application that takes a users birthday and generates the day in w
  </ul>
 
 ## project live link
-<a>kelvin-wepo.github.io/akan-names/</a>
+* Click to view my site-https://kelvin-wepo.github.io/Akan-Names/
 
 ## Known bugs
 There are no known bugs.
@@ -41,4 +41,4 @@ For support Email at kelvin.wepo@student.moringaschool.com
 or Call us via **0799489045**
 
 ### Licence
-* Click to view license[view license](LICENSE)
+* Click to view license [view license](LICENSE)
