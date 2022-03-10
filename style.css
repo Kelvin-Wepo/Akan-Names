@@ -37,7 +37,7 @@ p {
 }
 .xcard .card {
     padding: 30px;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color:wheat;
 }
 
@@ -69,4 +69,8 @@ footer {
 span {
     color: white;
 }
+/* .sub{
+    width: 30px;
+    height: 30px;
+} */
 
